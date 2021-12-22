@@ -1,0 +1,20 @@
+body {
+  background-color: #393E46;
+  text-align: center;
+}
+p {
+  color: #4ECCA3;
+  font-size: 2rem;
+}
+h1 {
+  color: #4ECCA3;
+  font-size: 5rem;
+}
+img {
+  width: 10rem;
+}
+.player {
+  display: inline-block;
+  padding: 2rem;
+  text-align: center;
+}
